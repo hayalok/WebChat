@@ -1,0 +1,26 @@
+{
+  "name": "webchathashtaag",
+  "version": "1.0.0",
+  "description": "Web chat system",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node",
+    "chat",
+    "system"
+  ],
+  "author": "Alok Mishra",
+  "dependencies": {
+    "ejs": "^1.0.0",
+    "express": "^4.8.2",
+    "gravatar": "~1.0.6",
+    "socket.io": "1.0.6"
+  },
+  "engines": {
+    "node": "4.4.4"
+  },
+  "devDependencies": {},
+  "license": "ISC"
+}
