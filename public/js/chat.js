@@ -233,7 +233,6 @@ $(function(){
 		var li = $(
 			'<li class=' + who + '>'+
 				'<div class="image">' +
-					'<img src=' + imgg + ' />' +
 					'<b></b>' +
 					'<i class="timesent" data-time=' + now + '></i> ' +
 				'</div>' +
